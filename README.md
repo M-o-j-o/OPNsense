@@ -8,19 +8,19 @@ A collection of practical, hands-on guides for deploying and configuring **OPNse
 
 ## 📋 Guides
 
-### 1\. [Installation and Initial Setup](OPNSENSE%20CONFIGURATION/Installation%20and%20initial%20setup/)
+### 1\. [Installation and Initial Setup](./Installation%20and%20initial%20setup/)
 
 Get OPNsense up and running inside a KVM virtual machine. Covers ISO setup, VM configuration, interface assignment, and basic initial configuration via the web GUI.
 
-### 2\. [HTTP Transparent Proxy & Web Filtering](OPNSENSE%20CONFIGURATION/HTTP%20Transparent%20proxy%20%26%20Web%20filtering/)
+### 2\. [HTTP Transparent Proxy & Web Filtering](./HTTP%20Transparent%20proxy%20%26%20Web%20filtering/)
 
 Configure OPNsense as a transparent HTTP proxy using Squid, with web content filtering via SquidGuard. No client-side configuration required — traffic is intercepted at the firewall level.
 
-### 3\. [High Availability with CARP & pfSync](OPNSENSE%20CONFIGURATION/High%20Availabilty%20with%20CARP%20%26%20pfSync/)
+### 3\. [High Availability with CARP & pfSync](./High%20Availabilty%20with%20CARP%20%26%20pfSync/)
 
 Set up a fault-tolerant OPNsense cluster using **CARP** (Common Address Redundancy Protocol) and **pfSync** for state table synchronization. Includes virtual IP configuration and failover testing.
 
-### 4\. [Suricata IDS/IPS Installation](OPNSENSE%20CONFIGURATION/SURICATA%20Installation%20/)
+### 4\. [Suricata IDS/IPS Installation](./SURICATA%20Installation%20/)
 
 Deploy **Suricata** as an Intrusion Detection and Prevention System (IDS/IPS) within OPNsense. Covers rule sets, interface binding, alerting, and inline prevention mode.
 
